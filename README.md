@@ -7,6 +7,8 @@ This boilerplate was created to give a simple starting point for new projects us
 
 ## Atmosphere Packages:
 - react-meteor-data
+- aldeed:simple-schema
+- aldeed:collection2
 
 ## NPM Packages:
 - react
