@@ -7,10 +7,11 @@ This boilerplate was created to give a simple starting point for new projects us
 
 ## Atmosphere Packages:
 - react-meteor-data
-- aldeed:simple-schema
-- aldeed:collection2
+- ddp-rate-limiter
+- aldeed:collection2-core
 
 ## NPM Packages:
 - react
 - react-dom
 - react-router-dom
+- simpl-schema
