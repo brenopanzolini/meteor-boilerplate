@@ -1,0 +1,21 @@
+{
+    "plugins": [
+      "meteor",
+      "react"
+    ],
+    "extends": [
+        "airbnb",
+        "plugin:meteor/recommended",
+        "plugin:react/recommended"
+    ],
+    "env": {
+      "browser": true
+    },
+    "rules": {
+        "react/jsx-filename-extension": 0,
+        "import/extensions": 0,
+        "import/no-extraneous-dependencies": 0,
+        "import/no-unresolved": 0
+
+    }
+}
