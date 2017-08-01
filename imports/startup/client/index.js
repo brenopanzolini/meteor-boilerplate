@@ -7,7 +7,3 @@ import App from '../../ui/layouts/App';
 Meteor.startup(() => {
   render(<App />, document.getElementById('render-target'));
 });
-
-if (module.hot) {
-  module.hot.accept();
-}
