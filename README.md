@@ -16,4 +16,5 @@ This boilerplate was created to give a simple starting point for new projects us
 - react
 - react-dom
 - react-router-dom
+- prop-types
 - simpl-schema
